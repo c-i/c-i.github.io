@@ -74,7 +74,7 @@ sass:
 
 # Use the following plug-ins
 gems:
-  
+  jekyll-include-cache
   #- jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   #- jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   
@@ -87,5 +87,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: minima
-
+remote_theme: "mmistakes/minimal-mistakes@4.15.1"
