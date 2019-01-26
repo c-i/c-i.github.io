@@ -211,8 +211,8 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  float: left;
+//   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -224,9 +224,9 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+//     margin-left: 20px;
     color: $darkGray;
-    text-align: right;
+    text-align: left;
     font-weight: 300;
     letter-spacing: 1px;
 
