@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This site is a public journal of my thoughts and progress on projects.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Contact me at:
+[cwaitt@cwaitt.com](mailto:cwaitt@cwaitt.com)
